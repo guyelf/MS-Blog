@@ -1,0 +1,5 @@
+# Ignore node_modules from all sub-directories
+**/node_modules/
+
+# Ignore config.json from the client folder
+client/src/config.json
